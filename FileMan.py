@@ -17,7 +17,7 @@ def create_folder():
 
 def delete_folder():
     delete_folder_name = input("Введите имя удаляемой папки: ")
-    os.rmdir(os.path.join(working_dir, folder_name))
+    os.rmdir(os.path.join(working_dir, delete_folder_name))
 
 def change_folder():
     global working_dir
