@@ -21,7 +21,7 @@ def delete_folder():
 
 def change_folder():
     global working_dir
-    new_dir = input("Введите новую директорию с двумя //: ")
+    new_dir = input("Введите новую директорию с двумя \\: ")
     if os.path.isdir(new_dir):
         working_dir = new_dir
         print(f"Текущая директория: {working_dir}")
@@ -40,7 +40,7 @@ def write_text_to_file():
         file.write(text)
 
 def view_file_contents():
-    text_file = input("Введите текст, какого файла вы хотите увидеть: ")
+    text_file = input("Введите файл, текст которого вы хотите увидеть: ")
     with open(os.path.join(working_dir, text_file), 'r') as file:
         print(file.read())
 
