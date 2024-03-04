@@ -21,7 +21,7 @@ def delete_folder():
 
 def change_folder():
     global working_dir
-    new_dir = input("Введите новую директорию с двумя \\: ")
+    new_dir = input("Введите новую директорию с двумя '\\'  : ")
     if os.path.isdir(new_dir):
         working_dir = new_dir
         print(f"Текущая директория: {working_dir}")
