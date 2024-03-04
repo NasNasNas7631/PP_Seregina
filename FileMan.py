@@ -46,7 +46,7 @@ def view_file_contents():
 
 def delete_file():
     delete_file_name = input("Введите имя удаляемого файла: ")
-    os.remove(os.path.join(working_dir, file_name))
+    os.remove(os.path.join(working_dir, delete_file_name))
 
 def copy_file():
     source_file = input("Введите название файла: ")
