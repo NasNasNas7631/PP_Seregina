@@ -40,7 +40,8 @@ def write_text_to_file():
         file.write(text)
 
 def view_file_contents():
-    with open(os.path.join(working_dir, file_name), 'r') as file:
+    text_file = input("Введите текст, какого файла вы хотите увидеть: ")
+    with open(os.path.join(working_dir, text_file), 'r') as file:
         print(file.read())
 
 def delete_file():
@@ -48,9 +49,9 @@ def delete_file():
     os.remove(os.path.join(working_dir, file_name))
 
 def copy_file():
-        source_file = input("Введите название файла: ")
-        target_folder = input("Введите название папки: ")
-        shutil.copyfile(os.path.join(working_dir, source_file), os.path.join(working_dir, target_folder, source_file))
+    source_file = input("Введите название файла: ")
+    target_folder = input("Введите название папки: ")
+    shutil.copyfile(os.path.join(working_dir, source_file), os.path.join(working_dir, target_folder, source_file))
 
 def move_file():
     source_file = input("Введите название файла: ")
@@ -70,8 +71,8 @@ print(
     "3 - поменять путь \n"
     "4 - создать файл \n"
     "5 - написать что-то в файле \n"
-    "6 - удалить файл \n"
-    "7 - увидеть содержание папки \n"
+    "6 - увидеть содержание файла \n"
+    "7 - удалить файл \n"
     "8 - скопировать файл \n"
     "9 - переместить файл \n"
     "10 - переименовать файл \n"
