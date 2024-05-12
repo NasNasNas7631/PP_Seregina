@@ -1,0 +1,49 @@
+2024-05-12 20:47:05,841 [INFO] is_available_port: Порт 9090 свободен
+2024-05-12 20:47:05,856 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9090...
+2024-05-12 20:49:18,318 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 20:49:18,434 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 20:49:18,518 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 20:53:20,105 [INFO] run: [INFO] | 127.0.0.1 | /first.html | 200
+2024-05-12 20:55:24,251 [INFO] is_available_port: Порт 9090 свободен
+2024-05-12 20:55:24,251 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9090...
+2024-05-12 20:55:31,256 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 20:55:31,321 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 20:55:31,514 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 20:55:38,119 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2024-05-12 20:55:38,473 [INFO] run: [INFO] | 127.0.0.1 | /basic_button.js | 200
+2024-05-12 20:55:43,387 [INFO] run: [INFO] | 127.0.0.1 | /second.html | 200
+2024-05-12 20:55:47,339 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2024-05-12 20:55:47,643 [INFO] run: [INFO] | 127.0.0.1 | /basic_button.js | 200
+2024-05-12 20:55:50,352 [INFO] run: [INFO] | 127.0.0.1 | /first.html | 200
+2024-05-12 20:57:26,939 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 20:57:27,021 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 20:57:27,202 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 20:58:56,673 [INFO] is_available_port: Порт 9090 свободен
+2024-05-12 20:58:56,688 [INFO] main: [INFO] Старт Web-сервера localhost, порт: 9090...
+2024-05-12 20:59:14,945 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 20:59:15,011 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 20:59:15,208 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 20:59:17,979 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2024-05-12 20:59:18,287 [INFO] run: [INFO] | 127.0.0.1 | /basic_button.js | 200
+2024-05-12 21:04:09,649 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 21:04:09,726 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 21:04:09,873 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 21:04:11,415 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2024-05-12 21:04:11,630 [INFO] run: [INFO] | 127.0.0.1 | /basic_button.js | 200
+2024-05-12 21:07:20,191 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 21:07:20,268 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 21:07:20,415 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 21:07:25,979 [INFO] run: [INFO] | 127.0.0.1 | /second.html | 200
+2024-05-12 21:07:28,991 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2024-05-12 21:07:29,292 [INFO] run: [INFO] | 127.0.0.1 | /basic_button.js | 200
+2024-05-12 21:09:44,420 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 21:09:44,486 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 21:09:44,663 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 21:11:34,813 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 21:11:35,096 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 21:11:35,175 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 21:12:08,892 [INFO] run: [INFO] | 127.0.0.1 | /index.html | 200
+2024-05-12 21:12:09,162 [INFO] run: [INFO] | 127.0.0.1 | /servers.jpg | 200
+2024-05-12 21:12:09,253 [INFO] run: [INFO] | 127.0.0.1 | /webs.jpg | 200
+2024-05-12 21:12:10,660 [INFO] run: [INFO] | 127.0.0.1 | /script.html | 200
+2024-05-12 21:12:10,925 [INFO] run: [INFO] | 127.0.0.1 | /basic_button.js | 200
